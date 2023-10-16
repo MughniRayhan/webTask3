@@ -1,0 +1,127 @@
+*{margin: 0%;
+    padding: 0%;}
+
+    body{
+        background-image:url(https://i.ytimg.com/vi/jtUwS6KLLZ8/maxresdefault.jpg);        
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        height: 900px;
+    }
+
+    nav{
+        width: 100%;
+      /* background: BLACK;*/
+        height: 110px;
+        position: relative;
+
+    }
+    #navmenu{
+        width: 1170px;
+        height: 90px;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+
+    #nav1{
+        height: 28px;
+        display: inline-block;
+        width: 1170px;
+        padding: 3px;
+       
+    }
+
+    .logo{
+        color: white;
+        width: 100px;
+        font-size: 20px;
+        font-family: system-ui;
+    }
+    
+    
+    #menu1{
+        float: right;
+        width: 640px;
+        margin-top: -25px;
+        padding: 3px;
+    }
+    #menu1 ul{display: inline-block;
+        list-style: none;
+    margin-left: 200px;}
+#menu1 ul li{display: inline-block;
+    font-size: 15px;
+    margin-right: 20px;
+}
+#menu1 ul li a{
+    display: inline-block;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    font-family: system-ui;
+}
+#nav2{
+    height: 28px;
+    display: inline-block;
+    width: 1170px;
+    padding: 3px;
+    font-family: system-ui;
+    font-size: 1px;
+}
+#nav2 ul{display: inline-block;
+    list-style: none;
+}
+#nav2 ul li{display: inline-block;
+    font-size: 15px;
+}
+#nav2 ul li a{
+    display: inline-block;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 35px;
+    color: white;
+}
+#block{
+    margin: 50px; 
+    color: white;
+    margin-left: 215px;
+    margin-top: 20px;
+}
+.tittle{
+    font-size: 25px;
+    font-family: system-ui;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.line{
+    margin-top: 20px;
+    line-height: 20px;
+    margin-left: 30px;
+    font-size: 11px;
+    font-family: system-ui;
+    padding: 3px;
+}
+#button{
+    
+    margin-top: 30px;
+}
+
+.btn{
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+.btn2{
+    font-size: 13px;
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+button{
+    background: #0983c1;
+    color: white;
+    margin-top: 7px;
+    padding: 8px;
+    font-size: 12px;
+    border: none;
+}
